@@ -35,5 +35,6 @@ Formats only the player, full width
 <iframe src="https://open.spotify.com/embed/show/1jCRjU0EzcMftMTYTadoyY" width="250" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ````
 
-## Reference
-[Fiddle](http://jsfiddle.net/qa73L/993/)
+## References
+* [Fiddle HTML and CSS](http://jsfiddle.net/qa73L/993/)
+* [Spotify API - Widgets Documentation](https://developer.spotify.com/documentation/widgets/guides/adding-a-widget/)
